@@ -1,0 +1,22 @@
+# Backup and temporary files
+*.bkp
+*.backup
+*~
+
+# Calibration and tuning results
+adxl_results/
+ShakeTune_results/
+calibration.unused_old/
+
+# Large binary files
+*.tar.gz
+
+# Symlinks (optional, depends on your preference)
+mainsail.cfg
+timelapse.cfg
+
+# Backup directories
+klipper_backups/
+archive/
+
+*.env
