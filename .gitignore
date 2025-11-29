@@ -2,6 +2,7 @@
 *.bkp
 *.backup
 *~
+printer-*.cfg
 
 # Calibration and tuning results
 adxl_results/
